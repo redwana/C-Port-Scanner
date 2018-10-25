@@ -20,7 +20,7 @@ int main(int argc, char **argv){
 
     printf("\n");
 
-    printf("Enter start port number: ");
+    printf("Enter start port number: "); // use all port scan instead of start and end us lopp for this one
     scanf("%d", &start);
 
     printf("\n");
